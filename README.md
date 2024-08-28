@@ -20,7 +20,15 @@ Description: A typing speed test game with responsive feedback to help users imp
 
 Technologies used: HTML, CSS, JavaScript
 
-You can check out the project [Here](https://prafulcodes.github.io/Typing-Speed-Tester/).
+You can check out the project [GokuType](https://prafulcodes.github.io/Typing-Speed-Tester/).
+
+### ClothBoAT
+
+Description: ClothBoAT is an e-commerce clothing site designed to match customer UI & UX preferences. Developed over 6 weeks with full dedication, this project showcases my skills as an intermediate developer in creating a responsive, user-friendly site. It serves as a hands-on experience to understand the full process of developing an e-commerce platform.
+
+Technologies used: HTML, CSS, Javascript
+
+You can check out project [ClothBoAT]()
 
 ## 🎯 Goals
 
