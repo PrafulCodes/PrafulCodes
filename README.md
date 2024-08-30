@@ -28,7 +28,7 @@ Description: ClothBoAT is an e-commerce clothing site designed to match customer
 
 Technologies used: HTML, CSS, Javascript
 
-You can check out project [ClothBoAT](https://clothboat.netlify.app/)
+You can check out project [ClothBoAT](https://prafulcodes.github.io/ClothBoAT/)
 
 ## 🎯 Goals
 
