@@ -37,6 +37,6 @@ My current goal is to expand my knowledge and skills in web development, particu
 ## 📫 Contact Me
 
 - LinkedIn: [Praful Mohite](https://www.linkedin.com/in/praful-mohite)
-- Instagram: [@praful__mohite](https://www.instagram.com/praful__mohite/?igsh=ZjVmMjhqMzl5ZXpu)
+- Instagram: [@prafulmohite.in](https://www.instagram.com/prafulmohite.in/?igsh=ZjVmMjhqMzl5ZXpu)
 
 Feel free to connect with me on LinkedIn or Instagram! I'm open to collaborations, learning opportunities, and feedback on my projects.
