@@ -6,13 +6,9 @@ My name is Praful Mohite, and I'm currently a student with a passion for Web Dev
 
 I have a keen interest in web development and have been learning JavaScript, Node.js, and CSS to build dynamic and responsive web applications.
 
-## 🔧 Skills
+## 🔧 TechStack
 
-- JavaScript
-- java
-- C
-- Node.js
-- CSS, Tailwind
+C HTML5 Java JavaScript Python TypeScript React Vite TailwindCSS Firebase Supabase MongoDB MySQL
   
 
 ## 🎯 Goals
