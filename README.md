@@ -57,9 +57,10 @@ I’m a Computer Engineering student passionate about building real-world web pr
 🎉 **Hacktoberfest 2025 Completed!**  
 Earned the **Super Contributor** badge & official t-shirt for my first open-source contributions.  
 
-[![@prafulmohite's Holopin board](https://holopin.me/prafulmohite)]([https://holopin.io/@prafulmohite](https://www.holopin.io/@prafulcodes#badges))
+[![@prafulcodes's Holopin board](https://holopin.me/prafulcodes)](https://holopin.io/@prafulcodes)
 
 ---
+
 
 ## 📫 Connect With Me  
 LinkedIn: https://www.linkedin.com/in/praful-mohite  
