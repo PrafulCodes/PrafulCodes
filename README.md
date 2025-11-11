@@ -59,7 +59,7 @@ Participated and completed **Hacktoberfest 2025**, earning the **Super Contribut
 It was my **first step into open source**, where I contributed to real-world repositories and learned community collaboration.
 
 ![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest%202025%20-Completed-blueviolet?style=for-the-badge&logo=github)
-![Super Contributor](https://img.shields.io/badge/Super%20Contributor-✔-brightgreen?style=for-the-badge)
+![Super Contributor]([https://img.shields.io/badge/Super%20Contributor-✔-brightgreen?style=for-the-badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmhnlan3o0083js04by7lkdd0))
 
 ---
 
