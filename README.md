@@ -57,7 +57,9 @@ I’m a Computer Engineering student passionate about building real-world web pr
 🎉 **Hacktoberfest 2025 Completed!**  
 Earned the **Super Contributor** badge & official t-shirt for my first open-source contributions.  
 
-[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://holopin.io/@prafulcodes#badges)
+<a href="https://holopin.io/@prafulcodes#badges">
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Badge" width="120">
+</a>
 
 ---
 
