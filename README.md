@@ -52,12 +52,12 @@ I’m a Computer Engineering student passionate about building real-world web pr
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
 🎉 **Hacktoberfest 2025 Completed!**  
-Earned the **Super Contributor** badge & official t-shirt for my first open-source contributions.
+Earned the **Super Contributor** badge & official t-shirt for my first open-source contributions.  
 
-[![@prafulcodes's Holopin board](https://holopin.me/prafulcodes)](https://holopin.io/@prafulcodes#badges)
+[![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://holopin.io/@prafulcodes#badges)
 
 ---
 
