@@ -52,6 +52,17 @@ I’m a Computer Engineering student passionate about building real-world web pr
 
 ---
 
+## 🏆 Achievements  
+
+### 🎉 Hacktoberfest 2025
+Participated and completed **Hacktoberfest 2025**, earning the **Super Contributor Badge** and official t-shirt!  
+It was my **first step into open source**, where I contributed to real-world repositories and learned community collaboration.
+
+![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest%202025%20-Completed-blueviolet?style=for-the-badge&logo=github)
+![Super Contributor](https://img.shields.io/badge/Super%20Contributor-✔-brightgreen?style=for-the-badge)
+
+---
+
 ## 📫 Connect With Me  
 LinkedIn: https://www.linkedin.com/in/praful-mohite  
 Instagram: https://www.instagram.com/prafulmohite.in  
