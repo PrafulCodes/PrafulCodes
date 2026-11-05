@@ -11,7 +11,7 @@ A 20-year-old human trapped in the tech world, learning how things work, and try
     <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,react,vite,tailwind,nodejs,mongodb,mysql,firebase,supabase,godot,linux,git,github,vercel&perline=10&theme=dark" />
   </a>
 </p>
----
+
 
 ### 🏆 Hacktoberfest 2025
 
