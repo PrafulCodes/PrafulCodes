@@ -6,7 +6,6 @@ A 20-year-old human trapped in the tech world, learning how things work, and try
 
 ## 🧰 Technologies I've Worked With
 
-## ⚙️ Tech Stack & Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
