@@ -12,6 +12,7 @@ A 20-year-old human trapped in the tech world, learning how things work, and try
   </a>
 </p>
 
+---
 
 ### 🏆 Hacktoberfest 2025
 
