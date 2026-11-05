@@ -1,11 +1,10 @@
-# 👋 Hey, I’m Praful Mohite  
+### 👋 Hey, I'm Praful Mohite
 
 A 20-year-old human trapped in the tech world, learning how things work, and trying to figure out what I'm trying to figure out.
+
 ---
 
-
 ## 🧰 Technologies I've Worked With
-
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -28,26 +27,21 @@ A 20-year-old human trapped in the tech world, learning how things work, and try
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 ---
 
+### 🏆 Hacktoberfest 2025
 
 <a href="https://holopin.io/@prafulcodes#badges">
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Badge" width="120">
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="110">
 </a>
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Connect With Me
 
-## 🐍 Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/PrafulCodes/PrafulCodes/output/github-contribution-grid-snake-dark.svg)
-
-## 📫 Connect With Me  
-LinkedIn: https://www.linkedin.com/in/praful-mohite  
-Instagram: https://www.instagram.com/prafulmohite.in  
+[LinkedIn](https://www.linkedin.com/in/praful-mohite) · [Instagram](https://www.instagram.com/prafulmohite.in) · [GitHub](https://github.com/PrafulCodes)
 
 ---
 
 *Always open to collaborations and building meaningful projects.*
-
