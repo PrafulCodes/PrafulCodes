@@ -39,10 +39,9 @@ A 20-year-old human trapped in the tech world, learning how things work, and try
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrafulCodes&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+## 📊 GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrafulCodes&theme=github-compact&hide_border=true)
-
+![GitHub Stats](https://ghstats.dev/api/card?username=PrafulCodes&theme=github_dark)
 
 ## 📫 Connect With Me  
 LinkedIn: https://www.linkedin.com/in/praful-mohite  
